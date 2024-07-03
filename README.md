@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Imran Ali
-- 👀 I’m interested in Cloud Computing
+- 👀 My research spans on sustainability and quality of service in serverless computing
 - 🌱 I’m currently learning DevOPs
 - 💞️ I’m looking to collaborate on DevOps, Cloud Computing, serverless, OpenFaaS, Computer Networks
 - 📫 You can reach me via email: mohammadimran.ali2@unibo.it
